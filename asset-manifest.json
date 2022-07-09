@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sounderGrad-React-Placement-Test/static/css/main.604dfe97.css",
+    "main.js": "/sounderGrad-React-Placement-Test/static/js/main.96b2ba7a.js",
+    "static/js/787.e7025369.chunk.js": "/sounderGrad-React-Placement-Test/static/js/787.e7025369.chunk.js",
+    "static/media/logo.svg": "/sounderGrad-React-Placement-Test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sounderGrad-React-Placement-Test/index.html",
+    "main.604dfe97.css.map": "/sounderGrad-React-Placement-Test/static/css/main.604dfe97.css.map",
+    "main.96b2ba7a.js.map": "/sounderGrad-React-Placement-Test/static/js/main.96b2ba7a.js.map",
+    "787.e7025369.chunk.js.map": "/sounderGrad-React-Placement-Test/static/js/787.e7025369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.604dfe97.css",
+    "static/js/main.96b2ba7a.js"
+  ]
+}
